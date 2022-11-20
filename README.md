@@ -1,2 +1,2 @@
 # jpztec-web
-Página web del proyecto JPZ TEC jpztec.com
+[Página web](https://jpztec.com) del proyecto JPZ TEC.
