@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<h2 class="post-list-heading"> Ultimos videos git </h2>
+<h2 class="post-list-heading"> Ultimos videos </h2>
 
 <span class="post-meta">
   <a href="https://www.youtube.com/c/JPZTEC" >Todos los videos.</a>
