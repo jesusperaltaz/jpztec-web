@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Programación
-permalink: programación/
+permalink: programacion/
 ---
 
 > Presiona CTRL + F para buscar.
